@@ -1,0 +1,6 @@
+{
+  "name": "Tsunagari",
+  "description": "Platform konferensi video modern untuk branding, informasi, dan layanan pelanggan terbaik.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": []
+}
